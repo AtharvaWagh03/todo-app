@@ -13,3 +13,5 @@ e4.py
 output.zip
 test.py
 weather.csv
+__pycache__/
+*.pyc
