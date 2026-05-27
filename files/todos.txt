@@ -2,3 +2,4 @@ clean
 Khelo baccho
 sweep
 meditate
+throw
