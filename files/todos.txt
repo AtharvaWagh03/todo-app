@@ -1,5 +1,7 @@
 clean
 Khelo baccho
 sweep
+throw trash
 meditate
-throw
+new todo
+new todo
